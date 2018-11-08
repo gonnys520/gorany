@@ -12,6 +12,7 @@ public class onemoreclass {
 	private int bno;
 	private String bname;
 
+	public String chuchuchuCHUCHUCHUCHUCHUCHU;
 
 	private String oneoneoneoneoneonoene;
 }
