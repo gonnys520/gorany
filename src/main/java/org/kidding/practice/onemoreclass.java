@@ -4,7 +4,7 @@ public class onemoreclass {
 	
 	public void crowman() {
 		
-			String crow =" 까악까악";
+			String crow ="가익이가 까악까악을 싫어합니다.";
 	}
 	
 
