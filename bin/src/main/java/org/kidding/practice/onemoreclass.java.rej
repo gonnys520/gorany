@@ -1,0 +1,7 @@
+diff a/src/main/java/org/kidding/practice/onemoreclass.java b/src/main/java/org/kidding/practice/onemoreclass.java	(rejected hunks)
+@@ -7,4 +7,5 @@
+ 			
+ 	}
+ 	
++	private String onemoreTest;
+ }
