@@ -13,6 +13,7 @@ public class onemoreclass {
 	private String bname;
 >>>>>>> 64f888c9fe6321a79448f66d2773ddaf7a2ce969
 
+	public String chuchuchuCHUCHUCHUCHUCHUCHU;
 
 	private String oneoneoneoneoneonoene;
 }
